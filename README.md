@@ -3,9 +3,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/olaidris"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/olaidris"><img src="https://cdn.pixabay.com/photo/2022/01/21/00/35/whatsapp-icon-6953523_960_720.jpg?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp Badge" width="80"></a>
-</p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
