@@ -1,8 +1,5 @@
 
 <p align="center"><img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/olaidris"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -15,7 +12,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring Software Development.
 - ⚡ I enjoy watching movies.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Olasunkanmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olaidris)
-[![Whatsapp Badge](https://img.shields.io/badge/-Olasunkanmi-green?style=flat&logo=Whatsapp&logoColor=white)](https://www.linkedin.com/in/olaidris)
+[![Whatsapp Badge](https://img.shields.io/badge/-Olasunkanmi-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.link/brtet4)
 - 😄 Developer Name: Primus
 - ⚡ Fun fact: i love food
 
