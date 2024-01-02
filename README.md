@@ -13,7 +13,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ I enjoy watching movies.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Olasunkanmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olaidris)
 [![Whatsapp Badge](https://img.shields.io/badge/-Olasunkanmi-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.link/brtet4)
-- 😄 Developer Name: Primus
+- 😄 Developer Name: Olaidris
 - ⚡ Fun fact: i love food
 
 ---
